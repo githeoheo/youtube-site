@@ -2,10 +2,10 @@
 
 이 튜토리얼 영상을 보시면서 따라해보세요: [여기를 클릭](https://youtu.be/67stn7Pu7s4)
 
-<!-- ## Small Screen
+## Small Screen
 
-![small](https://github.com/dream-ellie/youtube-site/blob/master/demo/mobile.png)
+![small](https://github.com/githeoheo/youtube-site/blob/main/demo/mobile.PNG)
 
 ## Wide Screen
 
-![wide](https://github.com/dream-ellie/youtube-site/blob/master/demo/desktop.png) -->
+![wide](https://github.com/githeoheo/youtube-site/blob/main/demo/desktop.PNG)
