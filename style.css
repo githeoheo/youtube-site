@@ -63,15 +63,23 @@ header .icons .fa-search {
   margin-right: var(--spacing);
 }
 
-/* player */
+/* player video */
+/* player iframe */
 .player {
   position: sticky;
   top: 0;
-  text-align: center;
+  height: 400px;
   background-color: var(--black-color);
+  text-align: center;
 }
 
 .player video {
+  width: 100%;
+  height: 100%;
+  max-width: 1000px;
+}
+
+.player iframe {
   width: 100%;
   height: 100%;
   max-width: 1000px;
